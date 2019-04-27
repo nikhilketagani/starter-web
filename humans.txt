@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>nikhil 
+	-- <role> developer
+	-- <twitter> nikhilketagan
 
 # THANKS
 
